@@ -1,0 +1,9 @@
+file: CONDUCT
+sections:
+- file: CONTRIBUTING
+- file: README
+- file: geokg/content
+  sections:
+  - file: geokg/intro
+  - file: geokg/markdown
+  - file: geokg/notebooks
