@@ -1,4 +1,4 @@
-# geokg
+# 关于本书
 
 A book for beginners of geographical knowledge graph.
 
