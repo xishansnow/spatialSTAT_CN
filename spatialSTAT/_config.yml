@@ -5,7 +5,7 @@
 
 #######################################################################################
 # Book settings
-title                       : 地理知识图谱  # The title of the book. Will be placed in the left navbar.
+title                       : 空间统计学  # The title of the book. Will be placed in the left navbar.
 author                      : Guoliang PU  # The author of the book
 copyright                   : "2021"  # Copyright year to be placed in the footer
 logo                        : logo.png  # A path to the book logo
