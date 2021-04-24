@@ -36,3 +36,21 @@
     sections:
     - file: part03_point_pattern/chapter02_01-Knowledge_Pyramy
 
+- part: '第五篇 空间多尺度模型'
+  sections:
+  - file: part04_Hierarchical_Model/chapter01_00-content
+    sections:
+    - file: part04_Hierarchical_Model/chapter01_01-Knowledge_Pyramy
+  - file: part04_Hierarchical_Model/chapter02_00-content
+    sections:
+    - file: part04_Hierarchical_Model/chapter02_01-Knowledge_Pyramy
+
+- part: '第六篇 多（元）变量空间模型'
+  sections:
+  - file: part05_Multivariate_Model/chapter01_00-content
+    sections:
+    - file: part05_Multivariate_Model/chapter01_01-Knowledge_Pyramy
+  - file: part05_Multivariate_Model/chapter02_00-content
+    sections:
+    - file: part05_Multivariate_Model/chapter02_01-Knowledge_Pyramy
+
