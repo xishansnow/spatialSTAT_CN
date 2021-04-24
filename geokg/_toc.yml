@@ -1,8 +1,22 @@
 # Table of content
 # Learn more at https://jupyterbook.org/customize/toc.html
 #
-- file: intro
-- file: content
-  sections:
-    - file: markdown
-    - file: notebooks
+- part: 前言
+- numbered: true
+- chapters:
+  - file: intro
+  - file: content
+
+- part:  基础知识
+
+- part:  知识表达篇
+
+- part:  知识获取篇
+
+- part:  知识管理篇
+
+- part:  知识问答篇
+
+- part:  知识推理篇
+
+
