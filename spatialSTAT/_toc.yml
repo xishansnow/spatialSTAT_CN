@@ -8,9 +8,7 @@
     sections:
     - file: part00_basic/chapter01_01-Knowledge_Pyramy
       title: '常见分布'
-    - file: part00_basic/chapter01_01-Knowledge_Pyramy
-    - file: part00_basic/chapter01_01-Knowledge_Pyramy
-
+ 
   - file: part00_basic/chapter02_00-content
     title: '贝叶斯统计'
     sections:
