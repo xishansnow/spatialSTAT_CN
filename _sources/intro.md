@@ -1,16 +1,4 @@
-# Welcome to your Jupyter Book
 
-This is a small sample book to give you a feel for how book content is
-structured.
+# intro
 
-:::{note}
-Here is a note!
-:::
-
-And here is a code block:
-
-```
-e = mc^2
-```
-
-Check out the content pages bundled with this sample book to see more.
+![封面](https://xishansnowblog.oss-cn-beijing.aliyuncs.com/images/images/stats-20220401082859-b05b.webp)
