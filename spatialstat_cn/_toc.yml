@@ -4,34 +4,60 @@
 format: jb-book
 root: intro
 parts:
+
+- caption: 
+  chapters:
+  - file: content
+  - file: preface2   
+  - file: preface1
+
 - caption: 基础知识
   chapters:
-  - file: part00_basic/chapter01-OverviewOfSpatialDataProblems
+  - file: chapter01-OverviewOfSpatialDataProblems
 
 - caption: 点参考数据
   chapters:
-  - file: part01_point_reference/chapter02-BasicsOfPointReferencedDataModels
-  - file: part01_point_reference/chapter03-SomeTheoryForPoint-ReferencedDataModels
+  - file: chapter02-BasicsOfPointReferencedDataModels
+  - file: chapter03-SomeTheoryForPoint-ReferencedDataModels
 
-- caption: 面状数据
+- caption: 面元数据
   chapters:
-  - file: part02_areal/chapter04-BasicsOfArealDataModels
+  - file: chapter04-BasicsOfArealDataModels
 
-- caption: 分层模型
+- caption: 贝叶斯模型
   chapters:
-  - file: part03_Hierarchical_Model/chapter05-BasicsOfBayesianInference
-  - file: part03_Hierarchical_Model/chapter06-HierarchicalModelingForUnivariateSpatialData
-  - file: part03_Hierarchical_Model/chapter07-SpatialMisalignment
+  - file: chapter05-BasicsOfBayesianInference
+  - file: chapter06-HierarchicalModelingForUnivariateSpatialData
+
+- caption: 空间对齐
+  chapters:
+  - file: chapter07-SpatialMisalignment
 
 - caption: 点模式数据
   chapters:
-  - file: part04_point_pattern/chapter08-ModelingAndAnalysisForPointPatterns
+  - file: chapter08-ModelingAndAnalysisForPointPatterns
 
 - caption: 多变量建模
   chapters:
-  - file: part05_Multivariate_Model/chapter09-MultivariateSpatialModelingForPoint-ReferencedData
-  - file: part05_Multivariate_Model/chapter10-ModelsForMultivariateArealData
+  - file: chapter09-MultivariateSpatialModelingForPoint-ReferencedData
+  - file: chapter10-ModelsForMultivariateArealData
 
 - caption: 时空建模
   chapters:
-  - file: part06_SpatiotemporalModeling/chapter11-SpatiotemporalModeling
+  - file: chapter11-SpatiotemporalModeling
+
+- caption: 大型数据集建模
+  chapters:
+  - file: chapter12-ModelingLargeSpatialAndSpatiotemporalDatasets
+
+- caption: 空间梯度与摇摆
+  chapters:
+  - file: chapter13-SpatialGradientsAndWombling
+
+- caption: 空间生存模型
+  chapters:
+  - file: chapter14-SpatialSurvivalModels
+
+- caption: 空间过程模型
+  chapters:
+  - file: chapter15-SpatialProcessModeling
